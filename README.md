@@ -24,24 +24,6 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / f
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- Java
-- JavaScript / TypeScript
-- Python
-- SQL
-
-**Frameworks & Tools**
-- Spring Boot
-- React.js
-- Node.js
-- Docker
-- Git & GitHub
-- Linux / WSL
-
----
-
 ## 📌 Featured Projects
 
 - 🔹 **ETL Kafka Optimization**  

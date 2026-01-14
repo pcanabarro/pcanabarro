@@ -1,10 +1,75 @@
-<h1> Welcome to my profile! 👋 </h1>
-<h2>Pedro H Canabarro - Software Engineer @ SAP</h2>
-<p>
-  <a href="https://linkedin.com/in/pcanabarro">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/pcanabarro_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&theme=gruvbox&text=Pedro%20H%20Canabarro&fontColor=FFFFF0&animation=fadeIn&fontAlign=50&section=header" />
+</p>
+
+<!-- LINKS -->
+<p align="center">
+  <a href="https://instagram.com/pcanabarro_">Instagram</a> •
+  <a href="https://pcanabarro.com">Site</a> •
+  <a href="https://www.linkedin.com/in/pcanabarro/">LinkedIn</a>
+</p>
+
+---
+
+## 👋 A little bit about me
+
+Hi there! 👋  
+I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / full-stack** development.
+
+- 💼 Currently working at **SAP**
+- 💻 Main stack: **Java | Spring Boot | Node.js | SQL | Kafka**
+- 🚀 Interested in **system design, clean architecture, performance**
+- 🌍 Based in **Brazil**
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Java
+- JavaScript / TypeScript
+- Python
+- SQL
+
+**Frameworks & Tools**
+- Spring Boot
+- React.js
+- Node.js
+- Docker
+- Git & GitHub
+- Linux / WSL
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 **ETL Kafka Optimization**  
+  Optimization of ETL processes using Apache Kafka with producers, consumers, and partitions for scalable data pipelines.  
+  👉 https://github.com/username/project
+
+- 🔹 **Nitron Server Launcher**  
+  A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  
+  👉 PRIVATE (WIP)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: **pedroh.canabarro@gmail.com**
+- LinkedIn: https://linkedin.com/in/pcanabarro_
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
 </p>

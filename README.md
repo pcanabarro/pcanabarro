@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&theme=gruvbox&text=Pedro%20H%20Canabarro&fontColor=FFFFF0&animation=fadeIn&fontAlign=50&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&text=Pedro%20H%20Canabarro&fontColor=FFFFF0&animation=fadeIn&fontAlign=50&section=header" />
 </p>
 
 <!-- LINKS -->

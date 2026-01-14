@@ -28,7 +28,7 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / f
 
 - 🔹 **ETL Kafka Optimization**  
   Optimization of ETL processes using Apache Kafka with producers, consumers, and partitions for scalable data pipelines.  
-  👉 https://github.com/username/project
+  👉 https://github.com/pcanabarro/etl-optimization-kafka
 
 - 🔹 **Nitron Server Launcher**  
   A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  

@@ -54,15 +54,6 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / f
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Email: **pedroh.canabarro@gmail.com**

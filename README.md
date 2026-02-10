@@ -15,7 +15,7 @@
 ## 👋 A little bit about me
 
 Hi there! 👋  
-I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / full-stack** development.
+I'm **Pedro H Canabarro**, Software Engineer focused on **backend** development.
 
 - 💼 Currently working at **SAP**
 - 💻 Main stack: **Java | Spring Boot | Node.js | SQL | Kafka**
@@ -26,13 +26,14 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend / frontend / f
 
 ## 📌 Featured Projects
 
+  ⚠️⚠️⚠️DOWNLOAD NOWWWWWWWWW!!!!!!⚠️⚠️⚠️
+- 🔹 **Nitron Server Launcher**  
+  A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  
+  👉 https://github.com/pcanabarro/launcher/releases
+
 - 🔹 **ETL Kafka Optimization**  
   Optimization of ETL processes using Apache Kafka with producers, consumers, and partitions for scalable data pipelines.  
   👉 https://github.com/pcanabarro/etl-optimization-kafka
-
-- 🔹 **Nitron Server Launcher**  
-  A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  
-  👉 PRIVATE (WIP)
 
 ---
 

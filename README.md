@@ -39,7 +39,7 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend** development.
 
 ## 📫 Contact
 
-- Email: **pedroh.canabarro@gmail.com**
+- Email: **pcanabarro.dev@gmail.com**
 - LinkedIn: https://linkedin.com/in/pcanabarro_
 
 ---

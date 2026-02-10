@@ -27,9 +27,9 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend** development.
 ## 📌 Featured Projects
 
   ⚠️⚠️⚠️DOWNLOAD NOWWWWWWWWW!!!!!!⚠️⚠️⚠️
-- 🔹 **Nitron Server Launcher**  
+- 🔹 **[Nitron Server Launcher](https://pcanabarro.com/)**  
   A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  
-  👉 https://github.com/pcanabarro/launcher/releases
+  👉 https://github.com/pcanabarro/nitron-launcher/releases/tag/v1.0.0
 
 - 🔹 **ETL Kafka Optimization**  
   Optimization of ETL processes using Apache Kafka with producers, consumers, and partitions for scalable data pipelines.  

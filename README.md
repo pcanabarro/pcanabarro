@@ -27,7 +27,7 @@ I'm **Pedro H Canabarro**, Software Engineer focused on **backend** development.
 ## 📌 Featured Projects
 
   ⚠️⚠️⚠️DOWNLOAD NOWWWWWWWWW!!!!!!⚠️⚠️⚠️
-- 🔹 **[Nitron Server Launcher](https://pcanabarro.com/)**  
+- 🔹 **Nitron Server Launcher**  
   A cross-platform desktop application for creating and managing game servers with an intuitive wizard-based interface.  
   👉 https://github.com/pcanabarro/nitron-launcher/releases/tag/v1.0.0
 
